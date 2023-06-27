@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <BaseOutputPath>C:\Program Files\PlasticSCM5\client\</BaseOutputPath>
+    <RootNamespace></RootNamespace>
+    <BaseIntermediateOutputPath />
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="issuetrackerinterface">
+      <HintPath>C:\Program Files\PlasticSCM5\client\issuetrackerinterface.dll</HintPath>
+    </Reference>
+    <Reference Include="log4net">
+      <HintPath>C:\Program Files\PlasticSCM5\client\log4net.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

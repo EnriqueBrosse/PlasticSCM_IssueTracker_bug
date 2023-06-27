@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "Profile 1": {
+      "commandName": "Executable",
+      "executablePath": "C:\\Program Files\\PlasticSCM5\\client\\plastic.exe",
+      "nativeDebugging": true
+    }
+  }
+}
